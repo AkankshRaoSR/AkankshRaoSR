@@ -1,6 +1,6 @@
-## Hi there, I'm Akanksh Rao!
+# Hi there, I'm Akanksh Rao!
 
-# 💫 About Me:
+## 💫 About Me:
 🎓 Master’s student in Robotics and AI at ASU<br>
 🤖 AI and Automation Specialist at ASU EdPlus<br>
 👨🏻‍💻 Former AI Engineer at Simpragma Solutions<br>
